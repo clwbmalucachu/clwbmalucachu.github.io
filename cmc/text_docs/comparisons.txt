@@ -1,0 +1,128 @@
+Making comparisons
+
+Lets's say that your car is fast. If you're comparing your car to someone else's, you could say that it's as fast, faster, or the fastest. 
+
+'Fast' is the basic word, and is called the positive form. 'As fast' tells us that it moves at the same speed as the other car. 'As fast' is called the equative form. 'Faster' tells us that the first car moves more quickly than the second car, but that there are other cars which might move quicker still. 'Faster' is called the comparative form. 'Fastest' tells us that no other cars can move more quickly than this car. 'Fasest' and is called the superlative form. 
+
+Short adjectives
+In Welsh as in English, when you have a short adjective of one or two syllable, you can create these forms by adding a suffix to the stem of the positive form:
+
+positive	fast 		cyflym
+equative	as fast 	add -ed 	cyflymed
+comparative	faster 	add -ach 	cyflymach
+superlative	fastest 	add -af 	cyflymaf (sometimes the f is dropped)
+
+When the positive form ends in -b, -d, -g, -dl, -dn, -dr, -gr these change to -p, -t, -c, -tl, tn, -tr, -cr before the suffix is added. Sometimes, internal vowels change - w and aw become y and o - and sometimes -n and -r are doubled. There are other irregularities, but you will learn these exceptions as you go along. 
+
+The equative form is often used with 'cyn' preceeding it, which causes soft mutation (not of rh or ll), e.g. cyn wynned, as white.
+
+Here are some examples of of adjectives and their different forms: 
+
+	positive	equative	comparative	superlative 
+obvious/clear	amlwg	amlyced	amlycach	amlycaf 
+fragile	brau	breued	breuach	breuaf 
+dirty (N)	budr	butred	butrach	butraf 
+short	byr	byrred	byrrach	byrraf 
+kind	caredig	carediced	caredicach	caredicaf 
+nasty	cas	cased	casach	casaf 
+round	crwn	cryned	crynach	crynaf 
+strong	cryf	cryfed	cryfach	cryfaf 
+lazy	diog	dioced	diocach	diocaf 
+clean	glân	glaned	glanach	glanaf 
+powerful	grymus	grymused	grymusach	grymusaf 
+wet	gwlyb	gwlyped	gwlypach	gwlypaf 
+tenacious	gwydn	gwytned	gwytnach	gwytnaf 
+white	gwyn	gwynned	gwynnach	gwynnaf 
+nice, pleasant	hyfryd	hyfryted	hyfrytach	hyfrytaf 
+full	llawn	llawned	llawnach	llawnaf 
+sweet	melys	melysed	melysach	melysaf 
+pure	pur	pured	purach	puraf 
+important	pwysig	pwysiced	pwysicach	pwysicaf 
+cheap	rhad	rhated	rhatach	rhataf 
+likely	tebyg	tebyced	tebycach	tebycaf 
+fair	teg	teced	tecach	tecaf 
+poor	tlawd	tloted	tlotach	tlotaf 
+pretty	tlws	tlysed	tlysach	tlysaf 
+heavy	trwm	trymed	trymach	trymaf 
+light (in weight)	ysgafn	ysgafned	ysgafnach	ysgafnaf
+
+Some borrowings add -ied, -iach, -iaf, especially in the North: e.g. braf, brafied, brafiach, brafiaf also neis, ffres, cwl, crand, nobl.
+
+Of course, some adjectives are irregular: 
+
+	positive	equative	comparative	superlative 
+near, close	agos	nesed	nes	nesaf 
+	agos(less correctly:	agosed	agosach	agosaf)
+difficult	anodd	anhawsed	anos	anhawsaf 
+	anodd (less correctly:	anodded	anoddach	anoddaf) 
+small, little	bach, bychan	lleied (occ: bychaned)	Ilai	lleiaf 
+soon	buan	buaned	buanach	buanaf 
+early	cynnar	cynted	cynt	cyntaf 
+good	da	cystal	gwell	gorau
+bad	drwg	cynddrwg	gwaeth	gwaethaf 
+	drwg occ: (in sense of naughty)	dryced	drycach	drycaf
+valuable	gwerthfawr	gwerthfawroced	gwerthfawrocach	gwerthfawrocaf
+easy	hawdd	hawsed	haws	hawsaf 
+	hawdd (less correctly:	hawdded	hawddach	hawddaf)
+old	hen	hyned	hy+n (less correctly: hynach)	hynaf 
+long	hir	cyhyd	hwy	hwyaf 
+	hir (less correctly:	hired	hirach	hiraf) 
+young	ieuanc	ieuanged	iau/ieuangach	ieuaf/ieuangaf 
+young	ifanc	ifenged/ifanged	ifengach	ifengaf 
+low	isel	ised	is	isaf 
+wide	llydan	lleted/cyfled	lletach	lletaf 
+big	mawr	cymaint	mwy	mwyaf 
+high	uchel	uched/cyfuwch	uwch	uchaf 
+
+
+Long adjectives
+Where you have adjectives of two or more syllables, these are used with the different forms of 'more', (mor, mwy, mwyaf), instead of using endings. Mor is followed by soft mutation, but does not affect rh and ll. 
+
+Note that those irregular adjectives in the table above cannot be used with 'mwy'. Also, adjectives of exactly two syllables can use either method.
+
+Here are some examples:
+
+
+brotherly	brawdol 	mor frawdol 	mwy brawdol 	mwyaf brawdol
+stubborn	cyndyn 	mor gyndyn 	mwy cyndyn 	mwyaf cyndyn 
+disgraceful	gwarthus 	mor warthus 	mwy gwarthus 	mwyaf gwarthus
+cowardly	llwfr 	mor llwfr 	mwy llwfr 	mwyaf llwfr 
+reasonable	rhesymol 	mor rhesymol 	mwy rhesymol 	mwyaf rhesymol
+
+
+As big as a house...
+To say that something is 'as... as...', use the equative plus â: 'cyn... -ed â...' when you have a short adjective that uses the endings, or 'mor... â' when you have a long adjective which uses the forms of 'mwy'. 
+
+Some examples: 
+
+as heavy as 	cyn trwmed â
+as happy as	cyn hapused â
+as beautiful as	cyn hardded â
+
+as funny as 	mor doniol â
+as comfortable as 	mor cyfforddus â
+as interesting as	mor diddorol â
+
+Remember that â causes aspirate mutation to the word that follows, and changes to ag when a vowel follows.
+
+Faster than a speeding bullet...
+To say that something is '-er than', use the comparative plus na: '-ach na ...' or 'mwy... na ...'.
+
+weaker than 	gwannach na
+faster than 	cyflymach na
+cheaper than	rhatach na
+
+more anxious than 	 mwy pryderus na
+more disgraceful than	mwy gwarthus na
+more reasonable than 	mwy rhesymol na
+
+Remember that na causes aspirate mutation to the words that follows, and changes to nag when a vowel follows.
+
+The quickest fox...
+When using the superlative, and saying that something is 'the -est', you have to use the identification sentence structure which puts 'bod' towards the end. When you say that this mountain is the highest, you have to say 'y mynydd 'ma ydy'r uchaf. You must not use mae with a superlative. 
+
+
+
+
+
+

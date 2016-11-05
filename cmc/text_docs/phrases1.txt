@@ -1,0 +1,14 @@
+Helo. Sut dych chi?	Hello. How are you
+Sut mae?	How are you?
+Iawn, dioch. A chi?	(I'm) ok, thanks. And you?
+Gweddol, diolch.	Fair, thanks.
+Dw i'n dda iawn.	I'm very well.
+Ddim yn ddrwg	Not bad.
+Bore da!	Good morning!
+P'nawn da!	Good afternoon!
+Noswaith da!	Good evening!
+Nos da, bawb!	Good night, everybody!
+Eitha da, diolch.	Quite well, thanks.
+Hwyl fawr.	Goodbye.
+
+

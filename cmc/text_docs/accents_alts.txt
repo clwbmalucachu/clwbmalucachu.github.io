@@ -1,0 +1,56 @@
+accents and alt keys
+
+Accents on letters are available on both PC and Mac, except for a few that don't commonly occur in languages other than Welsh. Notably absent is w with a circumflex, which is often shown as w^, and y with a circumflex, y^. 
+
+All accents can be denoted in emails and on the internet by using the letter with a plus, slash, backslash or percent symbol. These are not so commonly used now that embedded characters are more widely supported by browsers, so may not be understood by everyone.
+
+â (circumflex)	 a+
+à (grave) 	a\
+á (accute) 	a/
+ä (umlaut) 	a%
+
+PC accents
+Here's a table of all the accents currently available for PCs. To access them, hold down your alt-key, and enter the number given. 
+
+â	131	Â	182
+à	133	À	183
+á	160	Á	181
+ä	132	Ä	142
+			
+ê	136	Ê	210
+è	138	È	212
+é	130	É	144
+ë	137	Ë	211
+			
+î	140	Î	215
+ì	141	Ì	222
+í	161	Í	214
+ï	139	Ï	216
+			
+ô	147	Ô	226
+ò	149	Ò	227
+ó	162	Ó	224
+ö	148	Ö	153
+			
+û	150	Û	234
+ù	151	-	
+ú	163	Ú	233
+ü	129	Ü	154
+			
+ÿ	152	-	
+ý	236	Ý	237
+
+
+Mac accents
+Accents are available under almost any Mac keyboard configuration, even if they are not printed on the keyboard itself, for example an AZERTY keyboard shows the accent key positions on the keyboard, but some QWERTY keyboards do not. Such accent keys are, in fact, known as 'dead keys' because they do not produce any response until a second key (the character to be accented) is pressed, at which time, the correct accented character is displayed.
+
+To get these accented letters, hold the alt-key down and press the accent key to 'activate' the accent function, then press the letter requiring the accent as a normal character (in other words, without the alt-key) - if it is required to place the accent on a capital letter, simply use the shift key when pressing the required letter. 
+
+Alt-e = acute (can be followed by e, u, i, o, a)
+Alt-u = umlaut (can be followed by e, u, i, o, a, y)
+Alt-i = circumflex (can be followed by e, u, i, o, a)
+Alt-` (the key to the left of the Z key) = grave (can be followed by e, u, i, o, a)
+
+You can try these accents out in any application on a Mac, or you can use them with the Key Caps accessory, found under the Apple menu.
+
+Thanks to David Neale for the information on Mac accents. 

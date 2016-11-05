@@ -1,0 +1,39 @@
+If
+
+There are two types of 'if' in Welsh - the sort where something is likely to happen and the sort where it's not. 
+
+open
+The first type of 'if' is an 'open' condition, and it's pretty simple: If it rains, I have my umbrella. If the cat throws up once more, she's going to the vet. If the car breaks down, we'll have to walk. This kind of 'if' is translated as 'os' for a positive, and 'os na' or 'os nad' for a negative (if... not...).
+
+Os bydd y bws yn hwyr, bydd rhaid inni cerdded. 
+Os na fydd 'na ddigon o arian 'da ti, bydda i'n talu.
+
+closed/hypothetical
+The second type of 'if' is the sort where whatever it is isn't very likely to occur. If I win the lottery, I'll go on holiday. If the sky falls on my head, I'll get a headache. If only he hadn't sold me into slavery. 
+
+In this case, 'pe' is used along with the conditional of 'bod', ('to be'), and that comes in two main flavours: 
+
+pe baswn i 	pe byddwn i 	if i were
+pe baset ti	pe byddet ti	if you were
+pe basai fe	pe byddai fe	if he was
+pe basai hi	pe byddai hi	if she was
+pe basen ni	pe bydden ni	if we were
+pe basech chi	pe byddech chi	if you were
+pe basen nhw	pe bydden nhw	if they were
+
+You also have these regional variations to deal with as well, some of which drop the 'pe' and all of which have the 'unreality endings' (see also dylwn, gallwn, hoffwn and leiciwn). 
+
+pe bawn i 	pe tawn i	tawn i	pe taswn i	taswn i
+pe baet ti	pe taet ti	taet ti	pe taset ti	taset ti
+pe bai fe	pe tai fe	tai fe	pe tasai fe	tasai fe
+pe bai hi	pe tai hi	tai hi	pe tasai hi	tasai hi
+pe baen ni	pe taen ni	taen ni	pe tasen ni	tasen ni
+pe baech chi	pe taech chi	taech chi	pe tasech chi	tasech chi
+pe baen nhw	pe taen nhw	taen nhw	pe tasen nhw	tasen nhw
+
+Of these, the last column is very common:
+
+Taswn i'n gyfoethog, byddwn i'n mynd i Awstralia.
+Bydden nhw'n dod pe byddai rhaid iddyn nhw.
+
+You can also use 'pe' with other unreality verbs, such as gallwn, e.g. Byddwn i'n helpu pe gallwn i. 

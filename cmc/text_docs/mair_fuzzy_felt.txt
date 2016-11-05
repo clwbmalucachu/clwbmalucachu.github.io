@@ -1,0 +1,32 @@
+Mair a'r Fuzzy Felt
+
+Mair: "Mam? Ydych chi'n brysur?"
+Bronwen, mam Mair: "Nac ydw, Mair. Be' sy'n bod?"
+Mair: "O, dw i eisiau chwarae gyda fy Fuzzy Felt, ond dw i ddim yn gwybod ble mae e. Alli di helpu fi?"
+Bronwen: "Galla, bach. Dw i'n gwybod dylai fod ar dy gwpwrdd dillad."
+Mair: "Alli di helpu fi edrych?"
+Bronwen: "Wrth gwrs!"
+
+Mae Mair a'i mam yn mynd i ystafell weli Mair.
+
+Bronwen: "O Mair, edrycha! Mae llanast 'ma! Dylet ti dacluso dy stafell yn gynta!"
+Mair: "O mam!"
+Bronwen: "Paid cwyno!"
+
+Mae Bronwen yn gadael ystafell weli Mair, ac mae Mair yn tacluso! Wedyn...
+
+Mair: "Mam! Alli di helpu fi nawr? Mae fy ystafell weli yn daclus!"
+Bronwen: "Iawn"
+
+Mae Mair a Bronwen yn dychwelyd i ystafell Mair.
+
+Bronwen:  "O! Da iawn, Mair! Reit, pasia dy gadair i mi..."
+
+Mae Bronwen yn edrych ar y cwpwrdd dillad...
+
+Bronwen: "Dyma fe! Y Fuzzy Felt!"
+Mair: "O, diolch Mam!"
+Bronwen: "Dim problem, bach!"
+ 
+
+

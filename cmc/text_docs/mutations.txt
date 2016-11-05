@@ -1,0 +1,164 @@
+return of the killer mutations
+
+In Welsh, certain word combinations and grammatical circumstances can cause the initial letters of some words to change. This is called mutation. There are three types of mutation - soft, nasal and aspirate. Together they affect only nine consonants, although not all mutations affect all nine letters. The unmutated form is called the radical.
+
+Radical	Soft 	Nasal 	Aspirate 
+c 	g 	ngh 	ch 
+p 	b 	mh 	ph 
+t 	d 	nh 	th 
+g 	- 	ng 	- 
+b 	f 	m 	- 
+d 	dd 	n 	- 
+ll 	l 	- 	- 
+m 	f 	- 	- 
+rh 	r 	- 	- 
+
+To begin with, mutations might seem rather daunting, but if you practise enough they will soon come naturally. The main thing is not to worry - you would be undestood even if you missed every mutation.
+
+This cheat sheet goes through the most common circumstances which cause mutation, but it is not exhaustive. For a definitive guide, refer to a good grammar book, or the Welsh Academy English-Welsh Dictionary. 
+
+
+soft mutation - treiglad meddal
+This mutation (also called lenition) is the most common and the only one of the three types that is consistently applied across all Welsh speaking regions. These are the main causes of soft mutation that you will come accross: 
+
+1. Y/yr/'r = the, plus a singular feminine noun, but not a plural feminine noun.
+cath = a cat 
+y gath = the cat
+cathod = cats 
+y cathod = the cats
+merch = a girl 
+y ferch = the girl 
+merched = girls 
+y merched = the girls
+
+2. When an adjective follows a feminine singular noun, but not a plural feminine noun.
+cath las = a blue cat 
+cathod glas = blue cats 
+merch fach = a little girl 
+merched bach = little girls 
+
+Thus:
+y gath las = the blue cat
+y cathod glas = the blue cats
+y ferch fach = the little girl
+y merched bach = the little girls
+
+When any noun follows an adjective.
+hen wraig = an old lady
+unig fab = only son
+unrhyw fore = any morning
+
+3. When nouns or adjectives follow yn, the linking particle, (not 'in'). Ll and rh are not affected.
+mae'n drueni = it's a pity
+mae'n dda = it's good
+
+4. After most monosyllabic prepositions, preposition compounds (including prepositions with personal endings), and the abbreviated forms used after i and o.
+
+am, ar, at, dan, dros, (drwy), gan, heb, hyd, i, o, (tan), (tros), trwy, wrth
+dros ben, o dan, oddi wrth, etc., (but not i mi, i ti, i mewn, i maes) 
+i'th, o'i, i'w 
+
+Examples:
+Trefor - i Drefor = to Trefor
+Bangor - o Fangor = from Bangor
+blynyddoedd - am flynyddoed = for years
+
+5. After some possesive adjectives.
+dy = your (singular)
+ei = his
+
+car = a car 
+dy gar = your car
+gafr = a goat 
+ei afr = his goat
+
+6. After these miscellaneous words, some of which are very common. 
+ail = second (in order, not in the time sense)
+cyn = as (with equative form)
+dau = two (masculine) 
+dwy = two (feminine)
+dacw = there is ... 
+dyma/'ma = here is ... 
+dyna/'na = there is ... 
+fe or mi = affirmative particle 
+go = fairly, quite 
+mor = so (with adjective, but does not affect l or rh) 
+mor = as (when creating equative form)
+neu = or
+pa = which 
+pan = when 
+pur = very
+pwy = which (South) 
+rhy = too
+un = one (feminine)
+
+7. For sentences using inflected verbs:
+After the grammatical or notional subject (a word that isn't the subject, but is in the position of subject) of the sentence. On intial letter of the verbnoun stem in the affirmative (optional), interrogative, and negative (when aspirate mutation not applied).
+brynu Siân fara? = Did Siân buy bread?
+fe welodd Bethan gi = Bethan saw a dog (Bethan is the actual subject of the sentence)
+rhaid i Osian fynd = Osian has to go (Osian is the notional subject of the sentence)
+
+
+8. On the initial letter of adverbs of time, saying when something happened.
+blwyddyn = a year 
+flwyddyn yn ôl = a year ago 
+dydd Mercher = Wednesday 
+ddydd Mercher = on Wednesday
+
+9. In compound words, on the second word.
+prif (main) + dinas (city) = prifddinas (capital)
+
+7. After some prefixes.
+an + bodlon (willing) = anfodlon (unwilling)
+ail + meddwl (think) = ailfeddwl (rethink)
+di + defnydd (use) = diddefnydd (useless)
+ym + dangos (show) = ymddangos (seem)
+
+
+nasal mutation - treiglad trwynol
+This mutation isn't always spoken, but is always written. 
+
+1. After fy = my.
+cath = cat 
+fy nghath = my cat
+plant = children 
+fy mhlant = my children
+Note that sometimes the 'fy' is dropped, so nghath is sufficient for 'my cat'.
+
+
+2. After the preposition yn = in, but note that yn also changes form in some cases.
+Caerdydd - yng Nghaerdydd
+Penybont - ym Mhenybont
+Trefor - yn Nhrefor
+Gwent - yng Ngwent
+Bangor - ym Mangor
+Dolgellau - yn Nolgellau
+
+
+aspirate mutation - treiglad llaes
+Only C always changes in the modern spoken language, with the others optional, although all three are the norm in writing.
+
+1. After the following miscellaneous words:
+a = and 
+â = with 
+chwe = six
+ei = her (possessive, including i'w = to her; o'i = of her) 
+gyda = with
+na = than/or
+oni = unil
+tri = three (masculine) 
+tua = about, towards
+
+2. On a negative inflected verb (with personal endings).
+colli = lose
+cholles i ddim = I didn't lose 
+talu = pay
+thala i ddim = I won't pay
+
+3. Aspiration of vowels. 
+H is added to words beginning with a vowel after:
+ei = her
+ein = our
+eu = their
+
+E.g.: ei harian - her money

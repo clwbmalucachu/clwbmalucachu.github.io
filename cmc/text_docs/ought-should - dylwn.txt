@@ -1,0 +1,33 @@
+dylwn - ought to/should
+There are two ways of saying 'could' in Welsh, using 'dylwn' (south) and 'dylswn' (north). Neither are wrong, but it's best to be aware of both, and let local usage dictate which one you use. As the northern variation is simply the same as the southern, but with an 's' following the 'l', only 'dylwn' is listed here. Do not use 'yn'.
+
+"I ought to", "I should" 
+"Ought I?", "Should I?"
+"I ought not", "I shouldn't"
+
+affirmative
+dylwn i 
+dylet ti 
+dylai fe/fo
+dylai hi
+dylen ni
+dylech chi
+dylen nhw
+
+negative
+ddylwn i ddim
+ddylet ti ddim
+ddylai fe/fo ddim
+ddylai hi ddim
+ddylen ni ddim
+ddylech chi ddim
+ddylen nwh ddim
+
+interrogative
+ddylwn i?
+ddylet ti?
+ddylai fe/fo?
+ddylai hi?
+ddylen ni?
+ddylech chi?
+ddylen nhw?

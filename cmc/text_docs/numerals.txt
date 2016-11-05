@@ -1,0 +1,154 @@
+useful phrases - numerals
+There are two number systems in Welsh - the decimal system and the older vigesimal system. The decimal system is more commonly used now, although certain words from the older vigesimal system are still in common usage, especially when telling the time. Be thankful, though, that decimal is so popular, so you don't have to learn pedwar ar bymtheg ar bedwar hugain for ninety nine!
+
+Notes: 
+* Use numbers 1 to 10 with singular noun, e.g. "tri dyn" (three men), or "naw coeden" (nine trees) 
+* Use numbers 11 and over with 'o' and plural noun, e.g. "undeg naw o ddynion" (nineteen men) 
+* One, two, three and four have masculine and feminine forms. Use the form that corresponds to the gender of the thing being counted, e.g. tri mab (three sons), tair ferch (three daughters), and remember to keep an eye on mutation 
+* One has only one spelling, un, but causes soft mutation of feminine nouns 
+* Two, dau (m) and dwy (f) always causes soft mutation of the following noun, e.g. dau fab, dwy ferch. When used with 'the', both versions themselves undergo soft mutatation, e.g. y ddau fab, y ddwy ferch 
+* The masculine form of three, tri, causes aspirite mutation - this is more common in literary Welsh, but optional in speech. C is most likely to be mutated in speech, but p and t less so. Thus you may hear tri cheffyl (three horses) or tri ceffyl, but are unlikely to hear tri phaced (three packets). The feminine version, tair, causes no mutation 
+* Four has masculine and feminine versions - pedwar and pedair - but neither cause mutation 
+* Five, pump, drops its final p when followed directly by a noun, e.g. pum cath, (five cats), but pump o gathod 
+* Six, chwech, drops its final ch when followed directly by a singular noun, and then causes aspirite mutation, e.g. chwe cheiniog (six pence). Again, p and t are not always mutated, and aspirate mutation is not consistently applied. The full length version is used for plural nouns, with a following o, or on it's own, e.g. chwech o afalau (six apples) 
+* When you are talking about a group of things or people, then only use the feminine form when the whole group are feminine or female, e.g. dwy ohonoch chi means 'two of you (females)', whereas dau ohonoch chi could refer to a pair of males, or one male and one female. 
+* Vigesimal numbers marked with an asterisk are still commonly in use 
+
+
+
+
+cardinal numerals 	ordinals (1st, 2nd etc.) 
+decimal system 	vigesimal system
+0	dim			
+1	un (m), un (f, SM)		cyntaf	1af
+2	dau (m), dwy (f, SM)		ail	2il
+3	tri (m, AM), tair (f)		trydydd (m), trydedd (f)	3ydd/3edd
+4	pedwar (m), pedair (f)		pedwerydd (m), pedwaredd (f)	4ydd/4edd
+5	pump		pumed	5ed
+6	chwech		chweched	6ed
+7	saith		seithfed	7ed
+8	wyth		wythfed	8fed
+9	naw		nawfed	9fed
+10	deg		degfed	10fed
+11	undeg un	un ar ddeg	unfed ar ddeg	11eg
+12	undeg dau	deuddeg*	deuddegfed	12fed
+13	undeg tri	tri ar ddeg	trydydd ar ddeg	13eg
+14	undeg pedwar	pedwar ar ddeg	pedwerydd ar ddeg	14eg
+15	undeg pump	pymtheg*	pymthegfed	15fed
+16	undeg chwech	un ar bymtheg	unfed ar bymtheg	16eg
+17	undeg saith	dau ar bymtheg	ail ar bymtheg	17eg
+18	undeg wyth	deunaw	deunawfed	18fed
+19	undeg naw	pedwar ar bymtheg	pedwerydd ar bymtheg	19eg
+20	dauddeg	ugain*	ugeinfed	20fed
+21	dauddeg un	un ar hugain	unfed ar hugain	21ain
+22	dauddeg dau	dau ar hugain	ail ar hugain	22ain
+23	dauddeg tri	tri ar hugain	trydydd ar hugain	23ain
+24	dauddeg pedwar	pedwar ar hugain	pedwerydd ar hugain	24ain
+25	dauddeg pump	pump ar hugain	pumed ar hugain	25ain
+26	dauddeg chwech	chwech ar hugain	chweched ar hugain	26ain
+27	dauddeg saith	saith ar hugain	seithfed ar hugain	27ain
+28	dauddeg wyth	wyth ar hugain	wythfed ar hugain	28ain
+29	dauddeg naw	naw ar hugain	nawfed ar hugain	29ain
+30	trideg	deg ar hugain	degfed ar hugain	30ain
+31	trideg un	un ar ddeg ar hugain	unfed ar ddeg ar hugain	31ain
+32	trideg dau	deuddeg ar hugain	after 31st, use either just the number or rhif plus the number, e.g. rhif pedwardeg tri - forty third. Traditional ordinals do exist and follow the same pattern as above, but aren't always used. Exceptions are hundredth, thousanth, millionth and billionth.
+	
+33	trideg tri	tri ar ddeg ar hugain		
+34	trideg pedwar	pedwar ar ddeg ar hugain		
+35	trideg pump	pymtheg ar hugain		
+36	trideg chwech	un ar bymtheg ar hugain		
+37	trideg saith	dau ar bymtheg ar hugain		
+38	trideg wyth	deunaw ar hugain		
+39	trideg naw	pedwar ar bymtheg ar hugain		
+40	pedwardeg 	deugain		
+41	pedwardeg un	un a deugain		
+42	pedwardeg dau	dau a deugain		
+43	pedwardeg tri	tri a deugain		
+44	pedwardeg pedwar	pedwar a deugain		
+45	pedwardeg pump	pump a deugain		
+46	pedwardeg chwech	chwech a deugain		
+47	pedwardeg saith	saith a deugain		
+48	pedwardeg wyth	wyth a deugain		
+49	pedwardeg naw	naw a deugain		
+50	pumdeg	hanner cant		
+51	pumdeg un	hanner cant ac un		
+52	pumdeg dau	hanner cant a dau		
+53	pumdeg tri	hanner cant a thri		
+54	pumdeg pedwar	hanner cant a phedwar		
+55	pumdeg pump	hanner cant a phump		
+56	pumdeg chwech	hanner cant a chwech		
+57	pumdeg saith	hanner cant a saith		
+58	pumdeg wyth	hanner cant ac wyth		
+59	pumdeg naw	hanner cant a naw		
+60	chwedeg	trigain		
+61	chwedeg un	un a thrigain		
+62	chwedeg dau	dau a thrigain		
+63	chwedeg tri	tri a thrigain		
+64	chwedeg pedwar	pedwar ar thrigain		
+65	chwedeg pump	pump a thrigain		
+66	chwedeg chwech	chwech a thrigain		
+67	chwedeg saith	saith a thrigain		
+68	chwedeg wyth	with a thrigain		
+69	chwedeg naw	naw a thrigain		
+70	saithdeg 	deg a thrigain		
+71	saithdeg un	un ar ddeg a thrigain		
+72	saithdeg dau	deuddeg a thrigain		
+73	saithdeg tri	tri ar ddeg a thrigain		
+74	saithdeg pedwar	pedwar ar ddeg a thrigain		
+75	saithdeg pump	pymtheg a thrigain		
+76	saithdeg chwech	un ar bymtheg a thrigain		
+77	saithdeg saith	dau ar bymtheg a thrigain		
+78	saithdeg wyth	deunaw a thrigain		
+79	saithdeg naw	pedwar a bymtheg a thrigain		
+80	wythdeg	pedwar ugain		
+81	wythdeg un	un a phedwar ugain		
+82	wythdeg dau	dau a phedwar ugain		
+83	wythdeg tri	tri a phedwar ugain		
+84	wythdeg pedwar	pedwar a phedwar ugain		
+85	wythdeg pump	pump a phedwar ugain		
+86	wythdeg chwech	chwech a phedwar ugain		
+87	wythdeg saith	saith a phedwar ugain		
+88	wythdeg wyth	wyth a phedwar ugain		
+89	wythdeg naw	naw a phedar ugain		
+90	nawdeg	deg a phedwar ugain		
+91	nawdeg un	un ar ddeg a phedwar ugain		
+92	nawdeg dau	deuddeg a phedwar ugain		
+93	nawdeg tri	tri ar ddeg a phedwar ugain		
+94	nawdeg pedwar	pedwar ar ddeg a phedwar ugain		
+95	nawdeg pump	pymtheg a phedwar ugain		
+96	nawdeg chwech	un ar bymtheg a phedwar ugain		
+97	nawdeg saith	dau ar bymtheg a phwedwar ugain		
+98	nawdeg wyth	deunaw a phedwar ugain		
+99	nawdeg naw	pedwar ar bymtheg ar bedwar hugain /cant namyn un	
+
+100	cant (cannoedd)		canfed	
+101	cant ac un			
+102	cant a dau			
+120 	cant dauddeg	cant ac ugain		
+200	dau gant			
+300	tri chant			
+400	pedwar cant			
+500	pum cant			
+600	chwe chant			
+700	saith cant			
+800	wyth cant			
+900	naw cant			
+
+1,000	mil (miloedd)		milfed	
+1,000,000	miliwn (miliynau)		miliynfed	
+1000,000,000	biliwn (biliynau)		biliynfed	
+
+Fractions
+half	hanner (haneri)
+third	traean 
+two thirds	dau draean
+quarter	chwater, (-i)
+two quarters	dau chwater
+three quarters	tri chwater
+fifth	pumed
+two fifths	dau bumed
+three fifths	tri phumed
+four fifths	pedar pumed
+six	chweched
+two sixths	dau chweched
+etc.

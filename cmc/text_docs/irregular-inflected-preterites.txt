@@ -1,0 +1,56 @@
+Irregular Inflected Preterites
+
+mynd (go, went)
+es i
+est ti
+aeth e
+aeth hi
+aethon ni
+aethoch chi
+aethon nhw
+
+dod (come, came)
+des i
+dest ti
+daeth e
+daeth hi
+daethon ni
+daethoch chi
+daethon nhw
+
+gwneud (do, did)
+nes i
+nest ti
+naeth e
+naeth hi
+naethon ni
+naethoch chi
+naethon nhw
+
+cael (get, got)	
+ces i
+cest ti
+caeth e
+caeth hi
+caethon ni
+caethoch chi
+caethon nhw
+
+alternative cael
+ces i
+cest ti
+cafodd e
+cafodd hi
+cawson ni
+cawsoch chi
+cawson nhw
+
+alternative cael
+ces i
+cest ti
+cafodd e
+cafodd hi
+cafon ni
+cafoch chi
+cafon nhw
+

@@ -1,0 +1,50 @@
+bod - to be: preterite tense
+
+Use with 'yn' to form the preterite, which corresponds to English 'have been...' or 'have been to...'. e.g. 
+
+Bues i yn yr Eidal - I have been to Italy
+Fues i yn yr Eidal? - Have I been to Italy?
+Fues i ddim yn yr Eidal - I haven't been to Italy.
+
+afirmative
+bues/bu+m* i 
+buest ti
+bu(odd) e
+bu(odd) hi
+buon/buom* ni
+buoch chi
+buon nhw/buont hwy*
+
+interrogative
+fues/fu+m* i?
+fuest ti?
+fu(odd) e?
+fu(odd) hi?
+fuon/fuom* ni?
+fuoch chi?
+fuon nhw?/fuont hwy*
+
+note: in colloquial speech, the interrogative can take two forms: either use the affirmative form and use tone of voice to turn it into a question, or use soft mutation and tone of voice. The soft mutation is because of 'a', the interrogative particle which is usually unheard in speech. 
+
+negative
+fues/fu+m* i ddim
+fuest ti ddim
+fu(odd) e ddim
+fu(odd) hi ddim
+fuon/fuom* ni ddim
+fuoch chi ddim
+fuon nhw ddim/fuont hwy ddim*
+
+alternative negative
+ni bu+m (but not ni bues)
+ni buost
+ni bu
+ni bu
+ni buom
+ni buoch
+ni buont
+
+note: in some areas you may hear 'ni fu+m', ni fuost, etc. Also note that the final pronoun is often dropped from this form of negative. 
+
+* more formal forms
+

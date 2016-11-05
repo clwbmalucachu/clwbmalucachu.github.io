@@ -1,0 +1,70 @@
+imperfect/pluperfect
+
+Use with 'yn' for Imperfect tense: 	"I was washing" (not "I did wash" nor "I washed")
+					"Were you washing?" 
+					"I wasn't washing" 
+
+Use with 'wedi' for Pluperfect tense: 	"I had washed" 
+					"Had I washed?"
+					"I hadn't washed"
+
+Note: These tenses have a written form, and a spoken form (which is an abbreviated version of the written form). It is best to learn both. 
+
+written form
+
+affirmative
+roeddwn i
+roeddet ti
+roedd e
+roedd hi
+roedden ni
+roeddech chi
+roedden nhw
+
+interogative
+	yes
+oeddwn i?	"oeddwn"
+oeddet ti?	"oeddet"
+oedd e?	"oedd"
+oedd hi?	"oedd"
+oedden ni?	"oedden"
+oeddech chi?	"oeddech"
+oedden nhw?	"oedden"
+
+negative
+doeddwn i ddim
+doeddet ti ddim
+doedd ei ddim
+doedd hi ddim
+doedden ni ddim
+doeddech chi ddim
+doedden nhw ddim
+
+spoken form
+affirmative
+o'n i
+o't ti
+oedd e
+oedd hi
+o'n ni
+o'ch chi
+o'n nhw
+
+interogative
+o'n i?	"oeddwn"
+o't ti?	"oeddet"
+oedd e?	"oedd"
+oedd hi?	"oedd"
+o'n ni?	"oedden"
+o'ch chi?	"oeddech"
+o'n nhw?	"oedden"
+
+negative
+(d)o'n i ddim
+(d)o't ti ddim
+(d)oedd e ddim
+(d)oedd hi ddim
+(d)o'n ni ddim
+(d)o'ch chi ddim
+(d)o'n nhw ddim
+

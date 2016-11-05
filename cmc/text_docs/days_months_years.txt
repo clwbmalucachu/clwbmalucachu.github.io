@@ -1,0 +1,56 @@
+days, months and years
+
+days of the week
+dydd	Llun	Monday
+	Mawrth	Tuesday
+	Mercher	Wednesday
+	Iau	Thursday
+	Gwener	Friday
+	Sadwrn	Saturday
+	Sul	Sunday
+For "Monday night" substitute 'Nos (SM)' for Dydd, i.e. Nos Fawrth is Tuesday Night.
+
+
+day phrases
+	yesterday	today	tomorrow
+	ddoe	heddiw	yfory
+am	bore ddoe	bore 'ma	bore 'fory
+pm	p'nawn ddoe	p'nawn 'ma	p'nawn yfory
+night	neithiwr	heno 	nos yfory
+
+
+months of the year
+mis	Ionawr	January
+	Chwefror (or Mis Bach)	February
+	Mawrth (must use 'mis' to differentiate from Tuesday)	March
+	Ebrill	April
+	Mai	May
+	Mehefin	June
+	Gorffennaf	July
+	Awst	August
+	Medi	September
+	Hydref	October
+	Tachwedd	November
+	Rhagfyr	December
+
+
+Year Phrases
+1. Blwyddyn is the basic singular word for Year, e.g. O'n I yn yr Almaen am flwyddyn, I was in Germany for a year.
+
+2. Blynedd is used after numbers (except 1).
+
+one year	un flwyddyn
+two years	dwy flynedd
+three years	tair blynedd
+four years	pedair blynedd
+five years	pum mlynedd
+six years	chwe blynedd
+seven years	saith mlynedd
+eight years	wyth mlynedd or blynedd
+nine years	naw mlynedd
+ten years	deng mlynedd
+
+3. Blwydd (oed) is used after numbers to mean 'years old' with the same mutation pattern as above.
+
+4. Blynyddoedd is the plural of blwyddyn and is restricted to cases where 'years' isn't used with a number, e.g. 'flynyddoedd yn ol' years ago. 
+

@@ -1,0 +1,59 @@
+Verb-Noun Stems
+
+
+Rules for Regular Stems
+
+1. Verb-Nouns that end in a vowel drop their final vowel, e.g.:
+talu	=	tal-	pay
+codi	=	cod-	rise, raise
+ffonio	=	ffoni-	phone
+
+2. VNs ending in -au change to -eu-, e.g.:
+dechrau	=	dechreu-	begin
+
+3. VNs ending in a consonent usually stay the same, e.g.:
+eistedd	=	eistedd-	sit
+symud	=	symud-	move
+agor	=	agor-	open
+
+
+Irregular Stems
+
+However, some VNs add and -i-, or make an internal change, e.g.:
+derbyn	=	derbyni-	accept/receive
+dal	=	dali-	catch
+dianc	=	dihang-	escape
+ennill	=	enill-	win
+aros	=	arhos-	wait
+dweud	=	dwed-, or wed- or dywed-	say/tell
+
+List of some common irregular stems
+addo	=	addaw-	promise
+amgau	=	amgae-	enclose
+aros	=	arhos-	wait
+cau	=	cae-	close/shut
+cerdded	=	cerdd-	walk
+cyfnewid	=	cefnewidi-	exchange
+cymryd	=	cymer-	take
+cynnal	=	cynhali-	hold (a meeting)
+cyrraedd	=	cyrhaedd-	arrive, reach
+dadlau	=	dadleu-	argue
+dal	=	dali-	catch
+derbyn	=	derbyni-	accept/receive
+dianc	=	dihang-	escape
+dweud	=	dwed-, or wed-, or dywed-	say/tell
+dychwelyd	=	dychwel-	return
+ennill	=	enill-	win
+gadael	=	gadaw-	leave, let
+galw	=	galw-	call
+gweld	=	gwel-	see
+llenwi	=	llenw-	fill (up/in)
+meddwl	=	meddyli-	think, mean
+newid	=	newidi-	change
+rhedeg	=	rhed-	run
+sefyll	=	sef-, or saf-	stand
+troi	=	tro-, or trodd-	turn
+yfed	=	yf-	drink
+ymadael	=	ymadaw-	leave (intransitive)
+ymweld	= 	ymwel-	visit
+

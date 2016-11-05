@@ -1,0 +1,47 @@
+telling the time
+
+Telling the time in Welsh is pretty simple really - as you'd say 'quarter past three' in English, so you would in Welsh, although you couldn't say 'three fortyfive - that would be 'quarter to four' instead. The only other thing you need to remember is that some vigesimal numbers are used instead of the equivalent decimal number:
+
+12 - 'deuddeg' instead of 'undeg dau'
+15 - 'pymtheg' instead of 'undeg pump'
+20 - 'ugain' instead of 'dauddeg', (note that it gains an 'h' after 'ar', becoming 'hugain')
+
+3.00	tri o'r gloch
+3.05	pum munud wedi tri
+3.10	deng munud wedi tri
+3.15	chwarter wedi tri
+3.20	ugain munud wedi tri
+3.25	pum munud ar hugain wedi tri
+3.30	hanner awr wedi tri
+3.35	pum munud ar hugain ibedwar
+3.40	ugain munud i bedwar
+3.45	chwarter i bedwar
+3.50	deng munud i bedwar
+3.55	pum munun i bedwar
+4.00	pedwar o'r gloch
+
+
+second	eiliad
+minute	munud
+hour	awr
+o'clock	o'r gloch
+quarter	chwarter
+half 	hanner
+to	i
+past	wedi
+yn gwmws	precisely
+am	at
+tua	at about
+erbyn	by
+cyn	before
+ar ôl	after
+o ... tan ... 	from ... till ...
+o ... ymlaen	from .... onwards
+rhwng ... a ...	between ... and ...
+What's the time?	Faint o'r gloch ydy/yw hi?
+It's...	Mae'n... (with SM)
+It's coming up to ...	Mae'n tynnu at... (with SM)
+It's almost	Mae hi bron yn... (with SM)
+It's just turned...	Mae hi newydd droi... 
+
+

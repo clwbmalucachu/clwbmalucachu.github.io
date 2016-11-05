@@ -1,0 +1,71 @@
+gallwn and medrwn - could
+There are two ways of saying 'could' in Welsh, using 'gallwn' (south) and 'medrwn' (north). Neither are wrong, but it's best to be aware of both, and let local usage dictate which one you use. Do not use 'yn'.
+
+"I could" 
+"Could I?"
+"I couldn't"
+
+
+gallwn (south)
+
+affirmative
+gallwn i
+gallet ti
+gallai fe
+gallai hi
+gallen ni
+gallech chi
+gallen nhw
+
+
+interrogative
+allwn i?
+allet ti?
+allai fe?
+allai hi?
+allen ni?
+allech chi?
+allen nhw?
+
+
+negative
+allwn i ddim
+allet ti ddim
+allai feddim
+allai hi ddim
+allen ni ddim
+allech chi ddim
+allen nhw ddim
+
+
+medrwn (north)
+
+affirmative
+medrwn i
+medret ti
+medrai fo
+medrai hi
+medren ni
+medrech chi
+medren nhw
+
+
+interrogative
+fedrwn i?
+fedret ti?
+fedrai fo?
+fedrai hi?
+fedren ni?
+fedrech chi?
+fedren nhw?
+
+
+negative
+fedrwn i ddim
+fedret ti ddim
+fedrai fo ddim
+fedrai hi ddim
+fedren ni ddim
+fedrech chi ddim
+fedren nhw ddim
+

@@ -1,0 +1,212 @@
+prepositions part 2
+
+As we're at it... here are the rest!
+
+aboard
+- general usage	= ar [sm]
+	= ar fwrdd
+
+above
+- physically above something	= uwchben
+	= uwchlaw
+- previously (in a letter, etc)	= uchod
+
+according to
+- general usage	= yn ôl 
+	= chadal (colloquial)
+
+across
+- general usage	= ar draws
+	= dros [sm]
+
+after
+- general usage	= ar ôl
+	= wedi (more formal)
+
+against
+- opposing	= yn erbyn
+- contrary to 	= yn groes i [sm]
+- next to	= wrth [sm]
+
+
+ago
+- general usage	= yn ôl
+note that the time phrase precedes, and undergoes soft mutation, e.g. 'funud yn ôl', a minute ago. 
+
+ahead (or in front of)
+- general usage	= o flaen
+
+along
+- general usage	= ar hyd
+
+among(st)
+- general usage	= ymhlith
+	= ymysg (not so common)
+
+apart from
+- general usage	= heblaw ('blaw)
+	= ar wahân i [sm]
+	= ac eithro
+
+around
+- location	= o amgylch
+	= o gwmpas
+- appoximately	= tua [am]
+
+because of
+- general usage	= oherwydd
+	= o achos
+
+before
+- time	= cyn
+- in front of	= o flaen
+
+behind
+- general usage	= tu cefn i [sm]
+	= tu ôl i [sm]
+
+below
+- underneath	= dan [sm]
+	= o dan [sm]
+
+beneath
+- general usage	= dan [sm]
+	= o dan [sm]
+
+beside
+- general usage	= wrth ochor
+	= wrth ochr
+	= wrth ymyl
+	= yn ymyl
+	= ar bwys (Southern variant)
+- geographically	= ar lan
+
+between
+- general usage	= rhwng
+
+beyond
+- general usage	= tu hwnt i [sm]
+	= tu draw i [sm]
+
+despite
+- general usage	= er gwaetha(f)
+
+during
+- general usage	= yn ystod
+
+except
+- general usage	= heblaw ('blaw)
+	= ac eithrio
+	= ar wahân i [sm]
+
+following
+- general usage	= yn sgîl
+
+including
+- general usage	= gan gynnwys
+
+inside
+- general usage	= tu fewn i [sm]
+	= tu mewn i [sm]
+
+into
+- general usage	= i [sm]
+- implying motion	= i mewn i [sm]
+
+like
+- general usage	= fel
+
+minus
+- subtraction (e.g. 6-4=2)	= namyn 
+- negative numbers (e.g. -60°)	= minws
+- without	= heb [sm]
+
+near
+- general usage	= yn agos i [sm]
+	= yn ymyl 
+	= gerllaw
+	= ar bwys (Southern variation)
+- geographically	= ger
+
+onto
+- general usage	= ar [sm]
+
+opposite
+- general usage	= gyferbyn â [nm]
+	= gyferbyn i [sm]
+
+outside
+- general usage	= tu allan i [sm]
+- in front of	= o flaen
+
+past
+- motion	= heibio i [sm]
+- in telling the time	= wedi 
+
+per
+- general usage	= y, yr, 'r
+
+plus
+- addition (e.g. 4+4=8)	= â [nm]
+- positive numbers (e.g. +25°)	= plws
+
+regarding
+- general usage	= ynghylch
+	= yngly+n â
+
+round
+- general usage	= o gwmpas
+	= o amgylch
+	= am (occasionally used)
+
+since
+- general usage	= ers
+
+than
+- general usage	= na [nm], nag (before vowels)
+
+through
+- general usage	= drwy [sm], trwy [sm] (written form)
+
+throughout
+- general usage	= drwy [sm], trwy [sm] (written form)
+- time	= drwy [sm], trwy [sm] (written form)
+- space	= ledled
+
+till
+- general usage	= tan
+	= hyd (especially with specific times)
+
+towards
+- general usage	= tuag at [sm]
+	= tua [nm]
+-time, at about	= tua [nm]
+- in attitude to someone	= wrth [sm]
+
+underneath
+- general usage	= dan [sm]
+	= o dan [sm]
+
+until
+- general usage	= hyd [sm]
+	= tan [sm]
+
+up
+- general usage	= i fyny (Northern variant)
+	= lan (Southern variant)
+
+up to
+- general usage	= hyd at [sm]
+
+versus
+- general usage	= yn erbyn
+
+within
+- location	= tu fewn i [sm]
+	= tu mewn i [sm]
+- time	= o fewn
+	= cyn pen
+- distance	= o fewn
+
+without
+- general usage	= heb [sm]

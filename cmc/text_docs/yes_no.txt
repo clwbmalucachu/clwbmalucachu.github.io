@@ -1,0 +1,176 @@
+How to say yes and no
+
+Answering 'yes' or 'no' in Welsh is not quite as straight forward as saying 'ie' or 'nage'. When someone starts a question with words like 'are you?' or 'were they?', then you have to answer by echoing the question back, e.g. 'I am' or 'I'm not'; 'they were' or 'they weren't'. 
+
+This, of course, means that you have to remember which question demands which form, as questions like 'am I?' can either require the ti form or the chi form in the response for 'you are' or 'you aren't'. If you can't get your head round it, you can always fall back on 'wrth gwrs' (of course) or 'dw i'm yn siwr' (I'm not sure). Or just nod/shake your head!
+
+Note that the negative form can be written 'nac' or 'nag', and pronounced 'nag' (most common), 'nac', or 'nach'.
+
+
+	Interrogative	Yes	No
+			
+Existential present			
+is/are there?	oes?	oes	nac oes
+			
+Existential imperfect (past)			
+was/were there?	oedd?	oedd	nac oedd
+			
+Existential future			
+will there be?	fydd?	bydd	na fydd
+			
+Present			
+am i?	ydw i?	wyt/ydych	nac wyt/ydych
+are you?	(wyt) ti?	ydw	nac ydw
+is he?	ydy/yw e?	ydy	nac ydy/yw
+is she?	ydy/yw hi?	ydy	nac ydy/yw
+are we?	ydan ni?/(yd)yn ni?	ydych/ydyn	nac ydych/ydyn
+are you?	(y)dach chi?/(yd)ych chi?	ydw/ydyn	nac ydw/ydyn
+are they?	ydyn nhw?	ydyn	nac ydyn
+			
+Imperfect (written)			
+was i?	oeddwn i?	oeddet/ oeddech	nac oeddet/ oeddech
+were you?	oeddet ti?	oeddwn	nac oeddwn
+was he?	oedd e?	oedd	nac oedd
+was she?	oedd hi?	oedd	nac oedd
+were we?	oedden ni?	oedden	nac oedden
+were you?	oeddech chi?	oeddwn/oedden	nac oeddwn/oedden
+were they?	oedden nhw?	oedden	nac oedden
+			
+Imperfect (spoken)			
+was i?	o'n i?	o't/o'ch	nac o't/o'ch
+were you?	o't ti?	o'n	nac o'n
+was he?	oedd e?	oedd	nac oedd
+was she?	oedd hi?	oedd	nac oedd
+were we?	o'n ni?	o'n	nac o'n
+were you?	o'ch chi?	o'n	nac o'n
+were they?	o'n nhw?	o'n	nac o'n
+			
+Future			
+will I (be)?	fydda i?	byddi/byddwch	na fyddi/ fyddwch
+will you (be)?	fyddi di?	bydda(f)	na fydda(f)
+will he (be)?	fydd e?	bydd	na fydd
+will she (be)?	fydd hi?	bydd	na fydd
+will we (be)?	fyddwn ni?	byddwn	na fyddwn
+will you (be)?	fyddwch chi?	bydda(f)/byddwn	na fydda(f)/fyddwn
+will they (be)?	fyddan nhw?	byddan	na fyddan
+			
+inflected preterite (simple past)			
+did i...?	-es/-ais i?	do	naddo
+did you...?	-est ti?	do	naddo
+did he...?	-odd e?	do	naddo
+did she...?	-odd hi?	do	naddo
+did we...?	-on ni?	do	naddo
+did you...?	-och chi?	do	naddo
+did they...?	-on nhw?	do	naddo
+			
+Preterite of 'bod'			
+have I been (to)?	fues/fu^m* i?	do	naddo
+have you been (to)?	fuest ti?	do	naddo
+has he been (to)?	fu(odd) e?	do	naddo
+has she been (to)?	fu(odd) hi?	do	naddo
+have we been (to)?	fuon/fuom* ni?	do	naddo
+have you been (to)?	fuoch chi?	do	naddo
+have they been (to)?	fuon nhw?/fuont hwy*	do	naddo
+	*more formal		
+			
+inflected future			
+will I?	-a i?	do	naddo
+will you?	-i di?	do	naddo
+will he?	-ith e/o?	do	naddo
+will she?	-ith hi?	do	naddo
+will we?	-wn ni?	do	naddo
+will you?	-wch chi?	do	naddo
+will they?	-an nhw?	do	naddo
+			
+galla - can			
+can I?	alla i?	gelli/galli/
+gallwch	na elli/alli/allwch
+can you?	alli/elli* di?	galla	na alla
+can he?	all e?	gall	na all
+can she?	all hi?	gall	na all
+can we?	allwn ni?	gallwn 	na allwn 
+can you?	allwch/ellwch chi?	galla/gallwn	na alla/allwn
+can they?	allan nhw?	gallan	na allan
+	*elli di is more common		
+medra (north) - can			
+can I?	fedra i?	medri/medrwch	na fedri/fedrwch
+can you?	fedri di?	medra	na fedra
+can he?	fedr* fo?	medr	na fedr
+can she?	fedr hi?	medr	na fedr
+can we?	fedrwn ni?	medrwn	na fedrwn
+can you?	fedrwch chi?	medra/medrwn	na fedra/fedrwn
+can they?	fedran nhw?	medran	na fedran
+	*often pronounced 'fedar'		
+gallwn - could			
+could I?	allwn i?	gallet/gallech 	na allet/allech 
+could you?	allet ti?	gallwn	na allwn
+could he?	allai fe?	gallai	na allai
+could she?	allai hi?	gallai	na allai
+could we?	allen ni?	gallen	na allen
+could you?	allech chi?	gallwn/gallen	na allwn/allen
+could they?	allen nhw?	gallen	na allen
+			
+medrwn - could			
+could I?	fedrwn i?	medret/ medrech	na fedret/fedrech
+could you?	fedret ti?	medrwn	na fedrwn
+could he?	fedrai fo?	medrai	na fedrai
+could she?	fedrai hi?	medrai	na fedrai
+could we?	fedren ni?	medren	na fedren
+could you?	fedrech chi?	medrwn/ medren	na fedrwn/fedren
+could they?	fedren nhw?	medren	na fedren
+			
+byddwn - would			
+would I?	fyddwn i?	byddet/byddech	na fyddet/fyddech
+would you?	fyddet ti?	byddwn	na fyddwn
+would he?	fyddai fe?	byddai	na fyddai
+would she?	fyddai hi?	byddai	na fyddai
+would we?	fydden ni?	bydden	na fydden
+would you?	fyddech chi?	byddwn/bydden	na fyddwn/fydden
+would they?	fydden nhw?	bydden	na fydden
+			
+baswn - would			
+would I?	(fa)swn i?	(ba)set/(ba)sech	na (fa)set/(fa)sech
+would you?	(fa)set ti?	(ba)swn	na (fa)swn
+would he?	(fa)sai fo?	(ba)sai	na (fa)sai
+would she?	(fa)sai hi?	(ba)sai	na (fa)sai
+would we?	(fa)sen ni?	(ba)sen	na (fa)sen
+would you?	(fa)sech chi?	(ba)swn/(ba)sen	na (fa)swn/(fa)sen
+would they?	(fa)sen nhw?	(ba)sen	na (fa)sen
+			
+dylwn - ought to/should			
+ought/should I?	ddylwn i?	dylet/dylech	na ddylet/ddylech
+ought/should you?	ddylet ti?	dylwn	na ddylwn
+ought/should he?	ddylai fe/fo?	dylai	na ddylai
+ought/should she?	ddylai hi?	dylai	na ddylai
+ought/should we?	ddylen ni?	dylen	na ddylen
+ought/should you?	ddylech chi?	dylwn/dylen	na ddylwn/ddylen
+ought/should they?	ddylen nhw?	dylen	na ddylen
+			
+dylswn - ought to/should			
+ought/should I?	ddylswn i?	dylset/dylsech	na ddylset/ddylsech
+ought/should you?	ddylset ti?	dylswn	na ddylswn
+ought/should he?	ddylsai fe/fo?	dylsai	na ddylsai
+ought/should she?	ddylsai hi?	dylsai	na ddylsai
+ought/should we?	ddylsen ni?	dylsen	na ddylsen
+ought/should you?	ddylsech chi?	dylswn/dylsen	na ddylswn/dylsen
+ought/should they?	ddylsen nhw?	dylsen	na ddylsen
+			
+hoffwn - would like			
+would I like?	hoffwn i?	hoffet/hoffech	na hoffet/hoffech
+would you like?	hoffet ti?	hoffwn	na hoffwn
+would he like?	hoffai fe?	hoffai	na hoffai
+would she like?	hoffai hi?	hoffai	na hoffai
+would we like?	hoffen ni?	hoffen	na hoffen
+would you like?	hoffech chi?	hoffwn/hoffen	na hoffwn/hoffen
+would they like?	hoffen nhw?	hoffen	na hoffen
+			
+leiciwn - would like			
+would I like?	leiciwn i?	leiciet/leiciech	na leiciet/leiciech
+would you like?	leiciet ti?	leiciwn	na leiciwn
+would he like?	leiciai fe?	leiciai 	na leiciai 
+would she like?	leiciai he?	leiciai 	na leiciai 
+would we like?	leicien ni?	leicien 	na leicien 
+would you like?	leiciech chi?	leiciwn/leicien	na leiciwn/leicien
+would they like?	leicien nhw?	leicien	na leicien
+  
+

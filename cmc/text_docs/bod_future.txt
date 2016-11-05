@@ -1,0 +1,40 @@
+bod - to be: future and future perfect tenses
+
+Use with 'yn' for future tense: 	 "I will be washing" or "I will wash"
+				"Will you be washing?" 
+				"I won't be washing" or "I won't wash"
+
+Use with 'wedi' for future perfect tense: 	"I will have washed" 
+					"Will I have washed?"
+					"I won't have washed"
+
+
+
+affirmative
+bydda i
+byddi di
+bydd e
+bydd hi
+byddwn ni
+byddwch chi
+byddan nhw
+
+interogative
+	yes
+fydda i?	"bydda"
+fyddi di?	"byddi"
+fydd e?	"bydd"
+fydd hi?	"bydd"
+fyddwn ni?	"byddwn"
+fyddwch chi?	"byddwch"
+fyddan nhw?		"byddan"
+
+negative
+fydda i ddim
+fyddi di ddim
+fydd e ddim
+fydd hi ddim
+fyddwn ni ddim
+fyddwch chi ddim
+fyddan nhw ddim
+

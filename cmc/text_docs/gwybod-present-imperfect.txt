@@ -1,0 +1,78 @@
+gwybod - to know: present, imperfect
+
+These forms of 'gwybod' are pretty much interchangeable with the usual constructions of 'bod' + 'gwybod', e.g. gwn ni = dw i'n gwybod = I know, and gwyddwn i = roeddwn i'n gwybod = I knew. You cannot, however, form a preterite from gwybod because gwybod isn't an action, thus 'gwybododd e' would be incorrect. Do not use with 'yn' - e.g. 'gwn i fod...', 'I know that...'. Also, 'gwybod' is exclusively used to mean 'to know a fact' not 'to know a person'. If you are talking about recognising or knowing a person, use 'nabod'. 
+
+present
+
+Gwn i - I know
+Wn i? - Do I know? 
+Wn i ddim - I don't know
+
+
+affirmative
+gwn i
+gwyddost ti
+gw+yr e
+gw+yr hi
+gwyddon ni
+gwyddoch chi
+gwyddon/gwyddan nhw
+
+note: in speech, the 'g' is often dropped from the affirmative form of gwybod, even when there is no apparent reason to. 
+
+interrogative
+wn i?
+wyddost ti?
+w+yr e?
+w+yr hi?
+wyddon ni?
+wyddoch chi?
+wyddon/wyddan nhw?
+
+negative
+wn i ddim
+wyddost ti ddim
+w+yr e ddim
+w+yr hi ddim
+wyddon ni ddim
+wyddoch chi ddim
+wyddon/wyddan nhw ddim
+
+
+
+imperfect
+
+Gwyddwn i - I knew
+Wyddwn i? - Did I know? 
+Wyddwn i ddim - I didn't know
+
+affirmative
+gwyddwn i
+gwyddet ti
+gwyddai fe
+gwyddai hi
+gwydden ni
+gwyddech chi
+gwydden nhw
+
+note: in speech, the 'g' is often dropped from the affirmative form of gwybod, even when there is no apparent reason to. 
+
+interrogative
+wyddwn i?
+wyddet ti?
+wyddai fe?
+wyddai hi?
+wydden ni?
+wyddech chi?
+wydden nhw?
+
+negative
+wyddwn i ddim
+wyddet ti ddim
+wyddai fe ddim
+wyddai hi ddim
+wydden ni ddim
+wyddech chi ddim
+wydden nhw ddim
+
+

@@ -1,0 +1,179 @@
+Sentence tags
+
+Sentence tags are short question-like additions on the end of statements. They are sometimes called question tags, but many sentences that use them do not necessarily require an answer. Tone of voice is important in indicating whether the tag is truly a question requiring response or not: a falling tone indicates a statement, a rising tone indicates a question. 
+
+Used mainly in the spoken language, sentence tags are intended to check whether the listener agrees with the speaker. For example, 'It's warm, isn't it?' indicates that the speaker wishes to hear 'Yes' as an answer. The form of the tag question changes for each tense and person, and reflects the auxiliary used in the statement. 
+
+In English, an affirmative statement, 'it's warm' usually takes a negative tag, 'isn't it?'. When the verbs in both sections of the sentences are the same (both affirmative or both negative), this shows either interest in something, e.g. So, it's green, is it?, or in conjunction with tone of voice, a degree of aggression, e.g. 'I'm an idiot, am i?'.
+
+In Welsh, however, affirmative statements normally take affirmative tag questions, and negative statements take negative tag questions, e.g. 'Mae'n gynnes, yn dydy?'; 'Dydy o ddim yn dod, yn nac ydy'. Initially this might seem contradictory to your English instincts, but it becomes natural with practise.
+
+Note that the negative form can be written 'nac' or 'nag', and pronounced 'nag' (most common), 'nac', or 'nach'. Sentence tags can start with either 'yn' or 'on', but are usually pronounced as 'n, e.g. 'yn d'oes' is pronounced more like 'ndoes'. Finally, tags can also have a pronoun appended to them for emphasis, e.g. 'yn dydw i'. For the sake of simplicity, 'Yn' and 'nac' are used here throughout, and additional pronouns have been omitted.
+
+
+	Affirmative statement	Affirmative tag	Negative statement	Negative tag
+				
+Existential present				
+there is/are or isn't/aren't 	mae	yn d'oes?	does dim	yn nac oes?
+				
+Existential imperfect (past)				
+there was/were or wasn't/weren't?	roedd	yn d'oedd?	doedd dim	yn nac oedd?
+				
+Existential future				
+there will/won't be	bydd	yn bydd?	fydd dim	yn na fydd?
+				
+Present				
+I am/am not	dw i	yn dydw?	dw i ddim	yn nac ydw?
+you are/are not	(wyt) ti	yn dwyt?	(wyt) ti ddim	yn nac wyt?
+he is/isn't	mae o/e	yn dydy/dyw/tydi?	dydy o/dyw e ddim	yn nac ydy/yw/ydi?
+she is/isn't	mae hi	yn dydy/dyw/tydi?	dydy/dyw hi ddim	yn nac ydy/yw/ydi?
+we are/aren't	dan/(d)yn ni	yn dydyn?	(dy)dan ni ddim 	yn nac ydyn?
+you are/aren't	dach/(d)ych chi	yn dych/dydach?	dach chi ddim	yn nac ych/ydach?
+they are/aren't	maen nhw	yn dydyn?	dydyn nhw ddim	yn nac ydyn?
+				
+Imperfect (written)				
+I was/wasn't	roeddwn i	yn doeddwn?	doeddwn i ddim	yn nac oeddwn?
+you were/weren't	roeddet ti	yn doeddet?	doeddet ti ddim	yn nac oeddet?
+he was/wasn't	roedd o/e	yn doedd?	doedd o/e ddim	yn nac oedd?
+she was/wasn't	roedd hi	yn doedd?	doedd hi ddim	yn nac oedd?
+we were/weren't	roedden ni	yn doedden?	doedden ni ddim	yn nac oedden?
+you were/weren't	roeddech chi	yn doeddech?	doeddech chi ddim	yn nac oeddech
+they were/weren't	roedden nhw?	yn doedden?	doedden nhw ddim	yn nac oedden?
+				
+Imperfect (spoken)				
+I was/wasn't	o'n i	yn don?	(d)o'n i ddim	yn nac on?
+you were/weren't	o't ti	yn dot?	(d)o't ti ddim	yn nac ot?
+he was/wasn't	oedd o/e	yn doedd?	(d)oedd o/e ddim	yn nac oedd?
+she was/wasn't	oedd hi	yn doedd?	(d)oedd hi ddim	yn nac oedd?
+we were/weren't	o'n ni	yn dyn?	(d)o'n ni ddim	yn nac yn?
+you were/weren't	o'ch chi	yn doch?	(d)o'ch chi ddim	yn nac och?
+they were/weren't	o'n nhw	yn dynt?	(d)o'n nhw ddim	yn nac ynt?
+				
+Future				
+I will/won't (be)	bydda i	yn byddaf?	fydda i ddim	yn na fyddaf?
+you will/won't (be)	byddi di	yn byddi?	fyddi di ddim	yn na fyddi?
+he will/won't (be)	bydd e	yn bydd?	fydd e ddim	yn na fydd?
+she will/won't (be)	bydd hi	yn bydd?	fydd hi ddim	yn na fydd?
+we will/won't (be)	byddwn ni	yn byddwn?	fyddwn ni ddim	yn na fyddwn?
+you will/won't (be)	byddwch chi	yn byddwch?	fyddwch chi ddim	yn na fyddwch?
+they will/won't (be)	byddan nhw	yn byddan?	fyddan nhw ddim	yn na fyddan?
+				
+inflected preterite (simple past)				
+I did/didn't	-es/-ais i	yn'do?	-es/-ais i ddim	yn naddo?
+you did/didn't 	-est ti	yn'do?	-est ti ddim	yn naddo?
+he did/didn't	-odd e	yn'do?	-odd e ddim	yn naddo?
+she did/didn't 	-odd hi	yn'do?	-odd hi ddim	yn naddo?
+we did/didn't 	-on ni	yn'do?	-on ni ddim	yn naddo?
+you did/didn't 	-och chi	yn'do?	-och chi ddim	yn naddo?
+they did/didn't 	-on nhw	yn'do?	-on nhw ddim	yn naddo?
+				
+Preterite of 'bod'				
+I have/haven't been (to)	bues/bu^m* i	yn'do?	fues/fu^m* i ddim	yn naddo?
+you have/haven't been (to)	buest ti	yn'do?	fuest ti ddim	yn naddo?
+he has/hasn't been (to)	bu(odd) e	yn'do?	fu(odd) e ddim	yn naddo?
+she has/hasn't been (to)	bu(odd) hi	yn'do?	fu(odd) hi ddim	yn naddo?
+we have/haven't been (to)	buon/buom* ni	yn'do?	fuon/fuom* ni ddim	yn naddo?
+you have/haven't been (to)	buoch chi	yn'do?	fuoch chi ddim	yn naddo?
+they have/haven't been (to)	buon nhw/buont hwy*	yn'do?	fuon nhw/fuont hwy* ddim	yn naddo?
+	*more formal		*more formal ddim	
+				
+inflected future				
+I will/won't	-a i	yn'do?	-a i ddim	yn naddo?
+you will/won't 	-i di	yn'do?	-i di ddim	yn naddo?
+he will/won't 	-ith e/o	yn'do?	-ith e/o ddim	yn naddo?
+she will/won't 	-ith hi	yn'do?	-ith hi ddim	yn naddo?
+we will/won't 	-wn ni	yn'do?	-wn ni ddim	yn naddo?
+you will/won't 	-wch chi	yn'do?	-wch chi ddim	yn naddo?
+they will/won't 	-an nhw	yn'do?	-an nhw ddim	yn naddo?
+				
+galla - can				
+I can/can't	galla i	yn gallaf?	alla i ddim	yn na alla?
+you can/can't	galli/gelli* di	yn galli?	alli/elli* di ddim	yn na alli?
+he can/can't	gall e	yn gall?	all e ddim	yn na all?
+she can/can't	gall hi	yn gall?	all hi ddim	yn na all?
+we can/can't	gallwn ni	yn gallwn?	allwn ni ddim	yn na allwn?
+you can/can't	gallwch/gellwch chi	yn gallwch?	allwch/ellwch chi ddim	yn na allwch?
+they can/can't	gallan nhw	yn gallan?	allan nhw ddim	yn na allan?
+	*elli di is more common		*elli di is more common	
+medra (north) - can				
+I can/can't	medra i	yn medra?	fedra i ddim	yn na fedra?
+you can/can't	medri di	yn medri?	fedri di ddim	yn na fedri?
+he can/can't	medr* o	yn medr?	fedr o ddim	yn na fedr?
+she can/can't	medr hi	yn medr?	fedr hi ddim	yn na fedr?
+we can/can't	medrwn ni	yn medrwn?	fedrwn ni ddim	yn na fedrwn?
+you can/can't	medrwch chi	yn medrwch?	fedrwch chi ddim	yn na fedrwch?
+they can/can't	medran nhw	yn medran?	fedran nhw ddim	yn na fedran?
+	*often pronounced 'medar'		 	
+gallwn - could				
+I could/couldn't	gallwn i	yn gallwn?	allwn i ddim	yn na allwn?
+you could/couldn't 	gallet ti	yn gallet?	allet ti ddim	yn na allet?
+he could/couldn't 	gallai fe	yn gallai?	allai fe ddim	yn na allai?
+she could/couldn't 	gallai hi	yn gallai?	allai hi ddim	yn na allai?
+we could/couldn't 	gallen ni	yn gallen?	allen ni ddim	yn na allen?
+you could/couldn't 	gallech chi	yn gallech?	allech chi ddim	yn na allech?
+they could/couldn't 	gallen nhw	yn gallen?	allen nhw ddim	yn na allen?
+				
+medrwn - could				
+I could/couldn't	medrwn i	yn medrwn?	fedrwn i ddim	yn na fedrwn?
+you could/couldn't 	medret ti	yn medret?	fedret ti ddim	yn na fedret?
+he could/couldn't 	medrai fo	yn medrai?	fedrai fo ddim	yn na fedrai?
+she could/couldn't 	medrai hi	yn medrai?	fedrai hi ddim	yn na fedrai?
+we could/couldn't 	medren ni	yn medren?	fedren ni ddim	yn na fedren?
+you could/couldn't 	medrech chi	yn medrech?	fedrech chi ddim	yn na fedrech?
+they could/couldn't 	medren nhw	yn medren?	fedren nhw ddim	yn na fedren?
+				
+byddwn - would				
+I would/wouldn't	byddwn i	yn byddwn?	fyddwn i ddim	yn na fyddwn?
+you would/wouldn't 	byddet ti	yn byddet?	fyddet ti ddim	yn na fyddet?
+he would/wouldn't 	byddai fe	yn byddai?	fyddai fe ddim	yn na fyddai?
+she would/wouldn't 	byddai hi	yn byddai?	fyddai hi ddim	yn na fyddai?
+we would/wouldn't 	bydden ni	yn bydden?	fydden ni ddim	yn na fydden?
+you would/wouldn't 	byddech chi	yn byddech?	fyddech chi ddim	yn na fyddech?
+they would/wouldn't 	bydden nhw	yn bydden?	fydden nhw ddim	yn na fydden?
+				
+baswn - would				
+I would/wouldn't	(ba)swn i	yn baswn?	(fa)swn i ddim	yn na faswn?
+you would/wouldn't 	(ba)set ti	yn baset?	(fa)set ti ddim	yn na faset?
+he would/wouldn't 	(ba)sai fo	yn basai?	(fa)sai fo ddim	yn na fasai?
+she would/wouldn't 	(ba)sai hi	yn basai?	(fa)sai hi ddim	yn na fasai?
+we would/wouldn't 	(ba)sen ni	yn baswn?	(fa)sen ni ddim	yn na faswn?
+you would/wouldn't 	(ba)sech chi	yn basech?	(fa)sech chi ddim	yn na fasech?
+they would/wouldn't 	(ba)sen nhw	yn basen?	(fa)sen nhw ddim	yn na fasen?
+				
+dylwn - ought to/should				
+I should/shouldn't	dylwn i	yn dylwn?	ddylwn i ddim	yn na ddylwn? 
+you should/shouldn't 	dylet ti	yn dylet?	ddylet ti ddim	yn na ddylet?
+he should/shouldn't 	dylai fe/fo	yn dylai?	ddylai fe/fo ddim	yn na ddylai?
+she should/shouldn't 	dylai hi	yn dylai?	ddylai hi ddim	yn na ddylai?
+we should/shouldn't 	dylen ni	yn dylen?	ddylen ni ddim	yn na ddylen?
+you should/shouldn't 	dylech chi	yn dylech?	ddylech chi ddim	yn na ddylech?
+they should/shouldn't	dylen nhw	yn dylen?	ddylen nhw ddim	yn na ddylen?
+				
+dylswn - ought to/should				
+I should/shouldn't	dylswn i	yn dylswn?	ddylswn i ddim	yn na ddylswn?
+you should/shouldn't 	dylset ti	yn dylset?	ddylset ti ddim	yn na ddylset?
+he should/shouldn't 	dylsai fe/fo	yn dylsai?	ddylsai fe/fo ddim	yn na ddylsai?
+she should/shouldn't 	dylsai hi	yn dylsai?	ddylsai hi ddim	yn na ddylsai?
+we should/shouldn't 	dylsen ni	yn dylsen?	ddylsen ni ddim	yn na dylsen?
+you should/shouldn't 	dylsech chi	yn dylsech?	ddylsech chi ddim	yn na dylsech?
+they should/shouldn't	dylsen nhw	yn dylsen?	ddylsen nhw ddim	yn na ddylsen?
+				
+hoffwn - would like				
+I would/wouldn't like	hoffwn i	yn hoffwn?	hoffwn i ddim	yn na hoffwn?
+you would/wouldn't like	hoffet ti	yn hoffet?	hoffet ti ddim	yn na hoffet?
+he would/wouldn't like	hoffai fe	yn hoffai?	hoffai fe ddim	yn na hoffai?
+she would/wouldn't like	hoffai hi	yn hoffai?	hoffai hi ddim	yn na hoffai?
+we would/wouldn't like	hoffen ni	yn hoffen?	hoffen ni ddim	yn na hoffen?
+you would/wouldn't like	hoffech chi	yn hoffech?	hoffech chi ddim	yn na hoffech?
+they would/wouldn't like	hoffen nhw	yn hoffen?	hoffen nhw ddim	yn na hoffen?
+		 		
+leiciwn - would like				
+I would/wouldn't like	leiciwn i	yn leiciwn?	leiciwn i ddim	yn na leiciwn?
+you would/wouldn't like	leiciet ti	yn leiciet?	leiciet ti ddim	yn na leiciet?
+he would/wouldn't like	leiciai fo	yn leiciai?	leiciai fo ddim	yn na leiciai?
+she would/wouldn't like	leiciai he	yn leiciai?	leiciai he ddim	yn na leiciai?
+we would/wouldn't like	leicien ni	yn leicien?	leicien ni ddim	yn na leicien?
+you would/wouldn't like	leiciech chi	yn leiciech?	leiciech chi ddim	yn na leiciech?
+they would/wouldn't like	leicien nhw	yn leicien?	leicien nhw ddim	yn na leicien?
+  
+

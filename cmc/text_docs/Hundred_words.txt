@@ -1,0 +1,128 @@
+Hundred most popular words
+
+There's a theory that 50% of all conversation is made up of only 100 words, and here they are in all their glory!
+
+a	-	there is no word for 'a' in Welsh
+after	(prp)	wedi
+after	(ad)	wedyn, yna; You can also use "ar ol".
+again	(ad)	eto
+all	(a)	holl
+almost	(ad)	bron
+also	(ad)	hefyd
+always	(ad)	bob amser (each time)
+always	(ad)	trwy'r amser (all the time)
+and	(c )	a, ac
+because	(c )	oherwydd; achos (in conversation, also means cause.)
+before	(prp)	cyn
+before	(ad)	cynt
+big	(a)	mawr
+but	(c )	ond
+(I) can	(v)	gallu
+(I) come	(v)	dod
+either	(A & pn)	y ddau, naill ai; (ychwaith is 'neither')
+or	(c)	neu
+(I) find	(v)	ffeindo; ffindo; darganfod (to discover)
+first	(a)	cyntaf
+for	(prp)	am
+for	(c )	oherwydd
+friend	(n)	ffrind
+from	(prp)	o, oddi, gan, oddi wrth
+(I) go	(v)	mynd
+good	(a & n)	da
+goodbye	(a)	hwyl fawr
+happy	(a)	hapus
+(I) have	(v)	cael (not possession - use 'gyda' construction)
+he	(prn)	e
+hello	(a)	helo
+here	(ad)	yma; Can also use "fan hyn" ~(lit. "this place")
+how	(ad)	sut
+I	(pn)	fi
+(I) am		dw i; (in conversation, 'fi yn' is more natural, but is not acceptable in buisness writing.)
+if		os
+in	(prp)	yn, mewn
+in	(ad)	i mewn
+(I) know	(v)	gwybod
+last	(n)	lest 
+last	(a)	olaf
+(I) like	(v)	hoffi
+little	(a)	bach
+(I) love	(v)	cariad
+(I) make	(v)	gwneud
+many	(n & a)	llawer
+one	(n & a)	un
+more	(n)	rhagor
+more	(a)	mwy
+most	(a)	mwyaf
+most	(ad)	yn bennaf ('mainly' or 'mostly')
+much	(n)	llawer
+much	(a)	llawer, mawr
+much	(ad)	yn fawr
+my	(pn)	fy
+new	(a)	newydd
+no	(n)	na
+no	(a)	nid, dim
+no	(ad)	na, nid, nage
+not 	(ad)	na(c ), ni(d), na(d) 
+now	(ad)	nawr
+of	(prp)	o, am
+off	(adv)	ymaith, i ffwrdd
+off	(prp)	oddi, oddi wrth, oddi ar
+often	(ad)	yn aml
+on	(prp)	ar
+on	(ad)	ymlaen (means 'forward' - the only time it means 'on' is when refering to a device, eg 'rho'r teledu 'mlaen'' (turn the TV on))
+only	(a)	unig
+only	(ad)	yn unig, dim ond
+other	(a & pn)	arall; (ad) dim
+other	(ad)	dim
+our	(pn)	ein
+out	(ad)	allan; Verbally in the south use "mâs" 
+over	(prp)	dros
+over	(ad)	drosodd
+people	(n)	pobl; pronounced "pobol"  - but the second "o" should never be written
+place	(n)	lle
+please		plis
+same	(a)	yr un peth
+(I) see	(v)	gweld
+she	(pn)	hi
+so	(ad & c)	fel, felly
+some	(a & ad)	rhyw 
+some	(pn)	rhai; 
+sometimes	(ad)	weithiau
+still	(a)	tawel, llonydd; ('tawel' means still as in silent. To mean still as in not moving, use 'llonydd')
+such	(a)	y fath
+(I) tell	(v)	dweud
+thank you		diolch
+that	(pn)	hwn, hwnnw
+the	(def art)	y, yr, 'r
+their	(pn)	eu
+them	(pn)	nhw
+then	(ad)	yna; (c ) yna, hynny
+then	(c )	yna, hynny
+there is	(ad)	mae 'na, yno, yna, acw, dyna, (try using "mae 'na" for a more natural feel.)
+they	(pn)	nhw
+thing	(n)	peth
+(I) think	(v)	meddwl
+this	(a & pn)	hwn, hon, hyn
+time	(n)	amser
+to	(prp)	I, at; The phrase "tuag at" or just "tua" is used when meaning "towards"
+under	(prp & ad)	dan; (ad) danodd; Strictly it should be "o dan", but danodd is fine verbally. Could be confused with "y ddanodd" - toothache!
+up	(ad & prp)	i fyny, i lan
+us	(pn)	ni
+(I) use	(v)	defnyddio arfer, ("arfer" means "use" when refering to something done in the past that is no longer done. e.g. "ro'n i'n arfer cymryd y trên" translates to "I used to take the train")
+very	(a & ad)	iawn
+we	(pn)	ni
+what	(i)	beth
+what	(a)	pa
+what	(pn)	pa beth
+when	(ad & pn)	pryd
+where	(ad)	ble
+which	(rel pn)	a, y, yr; (inter pn) pa, p'un; (a) pa, p'run
+which	(inter pn)	pa, p'un; (a) pa, p'run
+which	(a)	pa, p'run
+who	(pn)	a, y, yr, pwy
+why	(ad)	pam
+with	(prp)	gyda
+yes	(ad)	ie
+you	(pn)	chi (ti); You only need to use "chi" when talking to shoolteachers, policemen, or prospective employers. It's rapidly going out of use. 
+your	(pn)	eich, 'ch
+

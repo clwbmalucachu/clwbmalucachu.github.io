@@ -1,0 +1,69 @@
+galla and medra - can
+There are two ways of saying 'can' in Welsh, using 'galla' (south) and 'medra' (north). Neither are wrong, but it's best to be aware of both, and let local usage dictate which one you use. The only time 'medru' wouldn't be used is in the sense of permission, when 'cael' would be used instead. Do not use 'yn'.
+
+"I can" 
+"Can I?"
+"I can't"
+
+galla (south)
+
+affirmative
+galla i
+galli/gelli di
+gall e
+gall hi
+gallwn ni
+gallwch /gellwch chi
+gallan nhw
+
+interrogative
+alla i?
+alli/elli di?
+all e?
+all hi?
+allwn ni?
+allwch/ellwch chi?
+allan nhw?
+
+negative
+alla i ddim
+alli/elli di ddim
+all e ddim
+all hi ddim
+allwn ni ddim
+allwch/ellwch chi ddim
+llaen nhw ddim
+
+
+medra (north)
+
+affirmative
+medra i
+medri di
+medru fo
+medru hi
+medrwn ni
+medrwch chi
+medran nhw
+
+interrogative
+fedra i?
+fedri di?
+fedru fo?
+fedru hi?
+fedrwn ni?
+fedrwch chi?
+fedran nhw?
+
+negative
+fedra I ddim
+fedri di ddim
+fedru fo ddim
+fedru hi ddim
+fedrwn ni ddim
+fedrwch chi ddim
+fedran nhw ddim
+
+
+
+

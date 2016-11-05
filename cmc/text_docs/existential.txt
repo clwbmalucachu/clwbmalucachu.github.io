@@ -1,0 +1,28 @@
+existential verb 
+Shows existence of something, same for singular and plural. Can be used with "'na' which causes soft mutation, eg: 'mae "na gaws", "oes 'na gaws?", "does 'na ddim caws". Note the mutation is blocked by 'ddim' in the negative. Na is used the same way for all tenses. Do not use with 'yn'.
+
+
+present
+"there is cheese"
+aff (there is/are)		mae
+int (is/are there?)		oes?
+neg (there is/are not)	does dim
+"yes"			oes
+"no"	nag oes
+
+imperfect (past)
+"there was cheese"
+aff	(r )oedd
+int	oedd?
+neg	doedd dim
+"yes"	oedd
+"no"	nag oedd
+
+future
+"there will be cheese"
+aff	bydd
+int	fydd?
+neg	fydd dim
+"yes"	bydd
+"no"	na fydd
+
